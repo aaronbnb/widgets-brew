@@ -1,6 +1,7 @@
 {
   "name": "widgets-brew",
   "version": "0.1.0",
+  "homepage": "http://aaronbnb.github.io/widgets-brew",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
@@ -15,6 +16,8 @@
     "react-select": "^2.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
