@@ -15,8 +15,10 @@ Code: https://github.com/aaronbnb/widgets-brew
 ### Features
 
 - Multiple Routes
-- View Widgets
-- Sort Widgets By Color
+- View widgets
+- View one widget
+- Sort widgets by color
+- Create a widget
 
 ### Future Features
 
